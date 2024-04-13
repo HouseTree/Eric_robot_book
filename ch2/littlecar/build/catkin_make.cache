@@ -1,0 +1,2 @@
+littlecar_description
+-DCATKIN_DEVEL_PREFIX=/home/zzq/ProgramSpace/Ros/Eric_robot_book/ch2/littlecar/devel -DCMAKE_INSTALL_PREFIX=/home/zzq/ProgramSpace/Ros/Eric_robot_book/ch2/littlecar/install -G Unix Makefiles

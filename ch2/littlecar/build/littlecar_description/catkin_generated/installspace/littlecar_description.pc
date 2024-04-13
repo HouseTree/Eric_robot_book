@@ -1,0 +1,8 @@
+prefix=/home/zzq/ProgramSpace/Ros/Eric_robot_book/ch2/littlecar/install
+
+Name: littlecar_description
+Description: Description of littlecar_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
